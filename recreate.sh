@@ -67,6 +67,8 @@ declare -a packages=(
     "kicad-library"
     "kicad-library-3d"
     "envycontrol"
+    "ttf-ms-win11-auto"
+    "libreoffice-fresh" 
 )
 
 # Paketleri yükle
