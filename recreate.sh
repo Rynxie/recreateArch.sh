@@ -69,6 +69,7 @@ declare -a packages=(
     "envycontrol"
     "ttf-ms-win11-auto"
     "libreoffice-fresh" 
+    "mangohud"
 )
 
 # Paketleri yükle
