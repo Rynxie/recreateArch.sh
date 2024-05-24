@@ -28,6 +28,7 @@ declare -a packages=(
     "xdg-desktop-portal-hyprland"
     "swaylock"
     "swaync"
+    "ttf-meslo-nerd-font-powerlevel10k"
     "ttf-jetbrains-mono-nerd"
     "waybar"
     "alacritty"
